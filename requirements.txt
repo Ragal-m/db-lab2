@@ -1,5 +1,0 @@
-flask
-pymysql
-bcrypt
-python-dotenv
-cryptography
